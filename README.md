@@ -17,3 +17,5 @@ By using these technologies, the Beagle Dog Fan Page project brings together inf
 
 # Below is the image Beagle dog web page that created using HTML with clear User interface.
 ![Dog_Project1](https://github.com/Saipavan8790/Beagle-Blog/assets/127079433/c4d27383-b970-4f67-a844-780703150250)
+
+Web url: http://127.0.0.1:5500/Dog.html
