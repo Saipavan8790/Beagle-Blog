@@ -15,4 +15,5 @@ The "Beagle Dog Fan Page" is a delightful HTML project dedicated to showcasing t
 
 By using these technologies, the Beagle Dog Fan Page project brings together information, imagery, and design to create an enjoyable and informative experience for visitors interested in learning more about Beagle dogs. Whether you're a long-time Beagle owner or simply curious about this charming breed, the fan page provides a platform to celebrate and appreciate these furry companions.
 Below is the image Beagle dog web page that created using HTML with clear User interface.
+
 ![Dog_Project1](https://github.com/Saipavan8790/Beagle-Blog/assets/127079433/c4d27383-b970-4f67-a844-780703150250)
